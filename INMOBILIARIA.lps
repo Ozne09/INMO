@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="INMOBILIARIA.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="37" Y="18"/>
+        <UsageCount Value="449"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="arch_propietarios.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ARCH_PROPIETARIOS"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="11"/>
+        <CursorPos X="48" Y="3"/>
+        <UsageCount Value="449"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="arch_terrenos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ARCH_TERRENOS"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="36" Y="21"/>
+        <UsageCount Value="449"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="arbol_contribuyentes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ARBOLES"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="30" Y="5"/>
+        <UsageCount Value="449"/>
+      </Unit>
+      <Unit>
+        <Filename Value="arboles2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ARBOLES2"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="8"/>
+        <CursorPos X="36" Y="2"/>
+        <UsageCount Value="110"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="arch_propietarios_2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ARCH_PROPIETARIOS_2"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="453"/>
+        <CursorPos X="54" Y="506"/>
+        <UsageCount Value="110"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="verificaciones.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="VERIFICACIONES"/>
+        <EditorIndex Value="6"/>
+        <CursorPos X="9"/>
+        <UsageCount Value="98"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="arboles.pas"/>
+        <UnitName Value="ARBOLES"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="30"/>
+        <CursorPos X="47" Y="30"/>
+        <UsageCount Value="217"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="18">
+      <Position>
+        <Filename Value="arch_propietarios_2.pas"/>
+        <Caret Line="57" Column="17" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="INMOBILIARIA.lpr"/>
+        <Caret Line="15" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="INMOBILIARIA.lpr"/>
+        <Caret Line="3" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="arch_propietarios_2.pas"/>
+        <Caret Line="57" Column="17" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="arch_propietarios_2.pas"/>
+        <Caret Line="12" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="arch_propietarios_2.pas"/>
+        <Caret Line="25" Column="15" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="INMOBILIARIA.lpr"/>
+        <Caret Line="3" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="arch_propietarios_2.pas"/>
+        <Caret Line="26" Column="46" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="arch_propietarios_2.pas"/>
+        <Caret Line="29" Column="35" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="arch_propietarios_2.pas"/>
+        <Caret Line="18"/>
+      </Position>
+      <Position>
+        <Filename Value="verificaciones.pas"/>
+        <Caret Line="2" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="verificaciones.pas"/>
+        <Caret Line="24" Column="50" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="verificaciones.pas"/>
+        <Caret Line="66" Column="16" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="verificaciones.pas"/>
+        <Caret Line="68" Column="13" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="verificaciones.pas"/>
+        <Caret Line="90" Column="14" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="arch_propietarios_2.pas"/>
+        <Caret Line="126" Column="37" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="arch_propietarios_2.pas"/>
+        <Caret Line="144" Column="28" TopLine="133"/>
+      </Position>
+      <Position>
+        <Filename Value="INMOBILIARIA.lpr"/>
+        <Caret Line="7" Column="74"/>
+      </Position>
+      <Position>
+        <Filename Value="arch_propietarios_2.pas"/>
+        <Caret Line="144" Column="28"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
